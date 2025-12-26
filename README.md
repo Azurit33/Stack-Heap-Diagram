@@ -10,7 +10,6 @@ Stack and heap diagram for a Java programme demonstrating:
 ## Files:
 - `Main.java` - program source code
 - `stack-heap-diagram.png` - visual diagram
-- Criteria met: [yes/no]
 
 ## How the assignment was completed:
 1. Analysis of the program code
